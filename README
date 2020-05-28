@@ -1,0 +1,8 @@
+Code to process data for the GroupD Ciac 2017 File Review Evaluation
+
+The code will not run as it is lacking the credentials to access the file system. 
+That said all the files needed are included, so with some edits to the code it should be rerunable, though that has not been tested.
+
+The procedures for creating the gross evaluation data files are in createReportData.py
+
+Additionally there are R files that were used to do the file review of the ATR data.
